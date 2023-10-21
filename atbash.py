@@ -1,7 +1,7 @@
 #coding:utf-8
 import string as s
 
-x = s.ascii_letters+' '+s.punctuation
+x = s.ascii_letters + ' ' + s.digits + s.punctuation
 y = x[::-1]
 
 word = ']4|W3/U4=04'
